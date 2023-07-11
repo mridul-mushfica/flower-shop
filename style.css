@@ -1,0 +1,62 @@
+.header{
+    display: flex;
+    background-color:rgba(229, 176, 176, 0.813);
+    margin-bottom: 40px;
+   
+   
+     
+
+}
+.header-img{
+    justify-content: center;
+    align-items: center;
+    padding-left:20px;
+    padding-right: 20px;
+}
+.header-title{
+    padding:70px;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-primary{
+    background-color: rgb(237, 109, 109);
+    border-radius: 5px;
+    color: whitesmoke;
+    border-color: rgb(237, 109, 109);
+    padding:8px 20px ;
+}
+.color{
+    color:rgb(244, 88, 88) ;
+}
+.deals{
+    display: flex;
+    padding: 5% 16%;
+    justify-content: center;
+    background-color:  rgb(239, 195, 195);
+   
+}
+.w1{padding-top: 50px;
+    padding-right: 20px;
+
+}
+.header-head{
+    font-size: 40px;
+}
+
+.footer{
+    margin-top: 30px;
+    text-align: center;
+    background-color: rgb(1, 2, 2);
+    color:white;
+    padding: 10%;
+    justify-content: center;
+}
+.footer-title{
+    margin: 20px;
+}
+header img {
+   width: 300px;
+}
+
+
