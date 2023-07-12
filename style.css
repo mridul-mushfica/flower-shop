@@ -35,7 +35,7 @@ header img {
 
 
 .color{
-    color:rgb(244, 88, 88) ;
+    color:rgb(240, 87, 115) ;
 }
 
 /* deal start */
@@ -55,7 +55,7 @@ header img {
 
 /* footer start */
 .footer{
-    margin-top: 30px;
+    margin-top: 10px;
     text-align: center;
     background-color: rgb(1, 2, 2);
     color:white;
@@ -66,12 +66,14 @@ header img {
     margin: 20px;
 }
 /* footer end */
+
+
 /* instagram start */
 .instagram-picture{
      display: flex;
     align-items: center;
     justify-content: center;
-    margin: 50px;
+    margin: 30px;
     padding: 30px;
     gap: 20px;
 }
